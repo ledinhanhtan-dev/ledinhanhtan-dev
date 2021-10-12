@@ -1,14 +1,14 @@
-<h1 align="center">Hello world! My name is Tan 👋</h1>
+<h1 align="center" style="margin-bottom: 1rem">Hello world! My name is Tan 👋</h1>
 
 <h3 align="center">I'm a really passionate frontend developer from Vietnam</h3>
 
-- 🔭 I’m now working on: [tnc-clone](https://tnc-clone.web.app/)
+- 🔭 I’m now working on [tnc-clone](https://tnc-clone.web.app/)
 
-- 🚀 Field that I want to mastered: **Angular**
+- 🚀 Field that I want to mastered **Angular**
 
-- 💬 Languages/Frameworks that I love: **TypeScript, Sass, Angular, NestJS**
+- 💬 Languages/Frameworks that I love **TypeScript, Sass, Angular, NestJS**
 
-- 📫 You can reach me at: **ledinhanhtan.dev@gmail.com**
+- 📫 You can reach me at **ledinhanhtan.dev@gmail.com**
 
 - ⚡ Fun fact: **I actually love coding!**
 
