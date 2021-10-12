@@ -1,5 +1,5 @@
-<h1 align="center">Hello world 👋 My name is Tan</h1>
-<h3 align="center">I'm a really passionate frontend developer come from Vietnam</h3>
+<h1 align="center">Hello world! My name is Tan 👋</h1>
+<h3 align="center">I'm a really passionate frontend developer from Vietnam</h3>
 
 - 🔭 I’m currently working on [tnc-clone](https://tnc-clone.web.app/)
 
