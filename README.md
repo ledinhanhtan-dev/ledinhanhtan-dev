@@ -1,7 +1,5 @@
-<h1 align="center">Hi there 👋! I'm Tan</h1>
+<h1 align="center">Hi there buddy 👋! I'm Tan</h1>
 <h3 align="center">A really passionate frontend developer from Vietnam</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ledinhanhtan-dev" alt="ledinhanhtan-dev" /></a> </p>
 
 - 🔭 I’m currently working on [tnc-clone](https://tnc-clone.web.app/)
 
