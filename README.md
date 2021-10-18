@@ -1,4 +1,4 @@
-<h1 align="center">Greeting! My name is Tan 👋</h1>
+<h1 align="center">Greeting! Fellow developers 👋</h1>
 <h3 align="center">I'm a really passionate frontend developer from Vietnam</h3>
 
 - 🔭 I’m now working on the [tnc-clone](https://tnc-clone.web.app/)
