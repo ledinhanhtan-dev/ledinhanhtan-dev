@@ -32,7 +32,7 @@
 <a href="https://www.adobe.com/sea/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="photoshop" width="39" height="40"/> </a>
 </p>
 
-<h3 align="left">Frameworks and Libraries:</h3>
+<h3 align="left">Frameworks:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
