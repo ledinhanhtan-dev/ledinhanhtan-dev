@@ -29,10 +29,12 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://user-images.githubusercontent.com/88238288/140631532-aa10bc71-b930-474d-9f58-c126dc94628c.png" alt="nodejs" width="36" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/sea/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="photoshop" width="39" height="40"/> </a>
 </p>
 
 <h3 align="left">Frameworks and Libraries:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
 </p>
