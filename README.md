@@ -7,8 +7,6 @@
 
 - 🏆 Wished to be taught by experienced developers
 
-- 💬 Languages, frameworks that I love **TypeScript, Sass, Angular, NestJS**
-
 - 📫 Reach me at **ledinhanhtan.dev@gmail.com**
 
 - ⚡ Fun fact: **I actually love coding!**
