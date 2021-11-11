@@ -1,5 +1,5 @@
 <h1 align="center">Greeting! Fellow developers 👋</h1>
-<h3 align="center">I'm something front-end myself, but anyway...</h3>
+<h3 align="center">My name is Tan and I'm a front-end developer</h3>
 
 
 - 🔭 I’m now working on the [ledinhanhtan.dev](https://ledinhanhtan.dev/)
