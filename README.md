@@ -2,9 +2,7 @@
 <h3 align="center">My name is Tan and I'm a front-end developer</h3>
 <br>
 
-- 🔭 I’m now working on the [ledinhanhtan.dev](https://ledinhanhtan.dev/)
-
-- 🔍 Currently looking for a job opportunity to work under professional environment and to contribute at the very best
+- 🔭 I’m now working at [Rikkei Soft](https://rikkeisoft.com/)
 
 - 🏆 Wished to be taught by experienced developers
 
