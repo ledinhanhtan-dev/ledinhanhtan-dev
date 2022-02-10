@@ -1,5 +1,4 @@
 <h1 align="center">Greeting! Fellow developers 👋</h1>
-<h3 align="center">Developer</h3>
 <br>
 
 - 🔭 I’m now working at [Rikkei Soft](https://rikkeisoft.com/)
