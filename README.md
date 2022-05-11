@@ -1,7 +1,7 @@
 <h1 align="center">Greeting! Fellow developers 👋</h1>
 <br>
 
-- 🔭 I’m now working at [Rikkei Soft](https://rikkeisoft.com/)
+- 🔭 I’m now working at [Paradox](https://www.paradox.ai/)
 
 - 🏆 Wished to be taught by experienced developers
 
